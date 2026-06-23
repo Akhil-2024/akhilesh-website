@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akhil-2024.github.io/akhilesh-website/sitemap.xml
